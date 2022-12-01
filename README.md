@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nicolas Martinez</h1>
+<h1 align="center">Hi :smile:, I'm Nicolas Martinez</h1>
 <h3 align="center">A passionate frontend developer from Argentina and future fullstack developer</h3>
 
 - 🔭 I’m currently working on [Autoservicio Andrés](https://github.com/Ch1nolas/Autoservicio-andres)
